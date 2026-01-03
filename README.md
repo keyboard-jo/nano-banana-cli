@@ -1,7 +1,3 @@
-Understood. Below is a **clean, neutral, human-written README** with **no emojis**, more restrained language, and **strong emphasis on the `GEMINI_API_KEY` requirement**. This should read like a serious developer tool, not marketing copy.
-
-You can replace your existing `README.md` with this.
-
 ---
 
 # Nano Banana CLI
