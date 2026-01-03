@@ -53,13 +53,29 @@ The application will fail immediately if this variable is missing.
 Do not commit your `.env` file to version control.
 
 ---
+## Available Models
+### Image Models
+| Model Name | Constant |
+|-----------|----------|
+| gemini-2.5-flash-image | NANO_BANANA |
+| gemini-3-pro-image-preview | NANO_BANANA_PRO |
+
+### Video Models
+| Model Name | Constant |
+|-----------|----------|
+| veo-2.0-generate-001 | VEO_MODEL |
+| veo-3.0-generate-001 | VEO_3 |
+| veo-3.0-fast-generate-001 | VEO_3_FAST |
+| veo-3.1-generate-preview | VEO_3_1 |
+| veo-3.1-fast-generate-preview | VEO_3_1_FAST |
+---
 
 ## Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/nano-banana-cli.git
+git clone https://github.com/keyboard-jo/nano-banana-cli.git
 cd nano-banana-cli
 ```
 
