@@ -242,12 +242,3 @@ Entries include:
 MIT License
 
 ---
-
-If you want, I can also:
-
-* Make a **shorter, public-facing README**
-* Add a **Quick Start** section at the top
-* Create a **`.env.example`**
-* Refactor this into a pip-installable CLI (`pipx install nano-banana-cli`)
-
-Just tell me what direction you want to take next.
