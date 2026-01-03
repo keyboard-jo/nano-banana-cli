@@ -8,6 +8,13 @@ This tool is intended for experimentation, prototyping, and internal workflows r
 
 ---
 
+## Disclaimer
+
+This project is an unofficial wrapper around Google GenAI APIs.
+It is not affiliated with or endorsed by Google.
+
+---
+
 ## Overview
 
 The CLI supports:
